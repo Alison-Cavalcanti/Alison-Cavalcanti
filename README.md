@@ -1,12 +1,8 @@
-<br clear="both">
-
-<h2 align="center"><>Talk is cheap, show me the code.</></h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzJjdb5j9zvfpwNTE3trLoWe_IA5oPp_KaYBtslpzYb871DMdUE1jHEOvGsYVXNhgq7s&usqp=CAU"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/alison-cavalcanti-518677155/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -37,6 +33,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h4 align="center"><>Talk is cheap, show me the code.< /></h4>
 
 ###
 
