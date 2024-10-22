@@ -1,25 +1,21 @@
-<img align="left" height="210" src="https://i.pinimg.com/550x/1b/d3/19/1bd319fc4cd0beaa59cfb099498d6a23.jpg"  />
+<br clear="both">
+
+<h2 align="center"><>Talk is cheap, show me the code.</></h2>
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/65/d7/e7/65d7e761c09075a4d11b5c92d4936dad.jpg"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzJjdb5j9zvfpwNTE3trLoWe_IA5oPp_KaYBtslpzYb871DMdUE1jHEOvGsYVXNhgq7s&usqp=CAU"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -34,9 +30,13 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center"><>Talk is cheap, show me the code.</></h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
 ###
 
